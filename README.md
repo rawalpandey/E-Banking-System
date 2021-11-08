@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+## Abstract
+Mobile Banking is a convenient and easy way for accessing bank. 
+Mobile banking system is a mobile application used for performing balance checks, account transactions, payments and quick loan via a mobile device such as mobile phone. 
+Mobile Banking is a very effective way of improving customer service, as customers would be informed better. 
+Online mobile banking helps user to avoid the rush of the bank and provides a easy way of banking, this also helps banks in growing their customers
 
-You can use the [editor on GitHub](https://github.com/rawalpandey/E-Banking-System/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+In this project we have created an online banking system where user can manage his existing bank account. Through this application user can check his account details, account summary, know his/her account balance or even read their mini statement. 
+You can also check existing loan and pay them, again when you will pay loan amount will automatically be stored in all tables and new update will be stored.
+We have also implemented fund transfer, where you can transfer amount from your bank to other bank
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Application Design
+### 1. USE CASE DIAGRAM
+![image](https://user-images.githubusercontent.com/40235251/140680951-39b70a28-7948-4430-9a6b-823fed9bd15b.png)
 
-### Markdown
+### 2. OBJECT DIAGRAM
+![image](https://user-images.githubusercontent.com/40235251/140680994-1fcef39a-a07d-45c1-8158-42b4cb6a4c4a.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3. CLASS DIAGRAM
+![image](https://user-images.githubusercontent.com/40235251/140681037-f811b4da-f41c-4f49-abce-bbb1c9ee6ada.png)
 
-```markdown
-Syntax highlighted code block
+### 4. System Architecture
+![image](https://user-images.githubusercontent.com/40235251/140681076-33c19861-fd78-4af6-b6d7-1edab272b228.png)
 
-# Header 1
-## Header 2
-### Header 3
+## User Interface
+1. Sign-In
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/40235251/140681293-6edb512f-b80a-4906-9b99-5dafc7747d37.png)
 
-1. Numbered
-2. List
+2. Services 
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/40235251/140681337-42e84a89-a22b-42cf-8efc-ae6eb401780e.png)
 
-[Link](url) and ![Image](src)
-```
+3. My Account
+ 
+ ![image](https://user-images.githubusercontent.com/40235251/140681451-ca5aa773-722c-4ab2-b6a0-bd6a0021b533.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. Account Summary
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/40235251/140681502-cb1ecb20-11fc-4d9e-b99e-37f7711a2533.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rawalpandey/E-Banking-System/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5. Change Password
 
-### Support or Contact
+![image](https://user-images.githubusercontent.com/40235251/140681550-ea04672d-3493-4611-995b-9cb41cb7b051.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+6. Fund Transfer
+
+![image](https://user-images.githubusercontent.com/40235251/140681618-9a0ef22e-c3d4-4d59-9905-74bbf948ba8f.png)
+
+7. Loan Services
+
+![image](https://user-images.githubusercontent.com/40235251/140681684-62abad66-7982-4067-b4c0-fc091c1d5c9b.png)
+
+8. Quick Loan
+
+![image](https://user-images.githubusercontent.com/40235251/140681742-e41b5062-4819-42e0-b034-ce9afd1b1fe8.png)
+
+9. Check Existing Loan
+
+![image](https://user-images.githubusercontent.com/40235251/140681798-cb0b64c3-0c44-4079-9ce4-0f150b75df92.png)
+
+10. Pay Loan
+
+![image](https://user-images.githubusercontent.com/40235251/140681851-10a81857-feeb-424c-b23e-5226460f217e.png)
+
+
+
+
+
+
