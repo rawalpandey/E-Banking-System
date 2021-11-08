@@ -10,16 +10,13 @@ You can also check existing loan and pay them, again when you will pay loan amou
 We have also implemented fund transfer, where you can transfer amount from your bank to other bank
 
 ## Application Design
-### 1. USE CASE DIAGRAM
-![image](https://user-images.githubusercontent.com/40235251/140680951-39b70a28-7948-4430-9a6b-823fed9bd15b.png)
-
-### 2. OBJECT DIAGRAM
+### 1. OBJECT DIAGRAM
 ![image](https://user-images.githubusercontent.com/40235251/140680994-1fcef39a-a07d-45c1-8158-42b4cb6a4c4a.png)
 
-### 3. CLASS DIAGRAM
+### 2. CLASS DIAGRAM
 ![image](https://user-images.githubusercontent.com/40235251/140681037-f811b4da-f41c-4f49-abce-bbb1c9ee6ada.png)
 
-### 4. System Architecture
+### 3. System Architecture
 ![image](https://user-images.githubusercontent.com/40235251/140681076-33c19861-fd78-4af6-b6d7-1edab272b228.png)
 
 ## User Interface
